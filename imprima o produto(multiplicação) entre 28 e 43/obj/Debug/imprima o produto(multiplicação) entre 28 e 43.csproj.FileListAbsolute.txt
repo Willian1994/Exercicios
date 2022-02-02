@@ -1,0 +1,7 @@
+C:\Users\wirioliveira\source\repos\Exercicios1\imprima o produto(multiplicação) entre 28 e 43\bin\Debug\imprima o produto(multiplicação) entre 28 e 43.exe.config
+C:\Users\wirioliveira\source\repos\Exercicios1\imprima o produto(multiplicação) entre 28 e 43\bin\Debug\imprima o produto(multiplicação) entre 28 e 43.exe
+C:\Users\wirioliveira\source\repos\Exercicios1\imprima o produto(multiplicação) entre 28 e 43\bin\Debug\imprima o produto(multiplicação) entre 28 e 43.pdb
+C:\Users\wirioliveira\source\repos\Exercicios1\imprima o produto(multiplicação) entre 28 e 43\obj\Debug\imprima o produto(multiplicação) entre 28 e 43.csproj.CoreCompileInputs.cache
+C:\Users\wirioliveira\source\repos\Exercicios1\imprima o produto(multiplicação) entre 28 e 43\obj\Debug\imprima o produto(multiplicação) entre 28 e 43.exe
+C:\Users\wirioliveira\source\repos\Exercicios1\imprima o produto(multiplicação) entre 28 e 43\obj\Debug\imprima o produto(multiplicação) entre 28 e 43.pdb
+C:\Users\wirioliveira\source\repos\Exercicios1\imprima o produto(multiplicação) entre 28 e 43\obj\Debug\imprima o produto(multiplicação) entre 28 e 43.csproj.AssemblyReference.cache

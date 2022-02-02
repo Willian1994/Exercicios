@@ -1,0 +1,7 @@
+C:\Users\wirioliveira\source\repos\Exercicios1\4 - imprimir a média aritmética entre os números 8, 9 e 7\bin\Debug\4 - imprimir a média aritmética entre os números 8, 9 e 7.exe.config
+C:\Users\wirioliveira\source\repos\Exercicios1\4 - imprimir a média aritmética entre os números 8, 9 e 7\bin\Debug\4 - imprimir a média aritmética entre os números 8, 9 e 7.exe
+C:\Users\wirioliveira\source\repos\Exercicios1\4 - imprimir a média aritmética entre os números 8, 9 e 7\bin\Debug\4 - imprimir a média aritmética entre os números 8, 9 e 7.pdb
+C:\Users\wirioliveira\source\repos\Exercicios1\4 - imprimir a média aritmética entre os números 8, 9 e 7\obj\Debug\4 - imprimir a média aritmética entre os números 8, 9 e 7.csproj.CoreCompileInputs.cache
+C:\Users\wirioliveira\source\repos\Exercicios1\4 - imprimir a média aritmética entre os números 8, 9 e 7\obj\Debug\4 - imprimir a média aritmética entre os números 8, 9 e 7.exe
+C:\Users\wirioliveira\source\repos\Exercicios1\4 - imprimir a média aritmética entre os números 8, 9 e 7\obj\Debug\4 - imprimir a média aritmética entre os números 8, 9 e 7.pdb
+C:\Users\wirioliveira\source\repos\Exercicios1\4 - imprimir a média aritmética entre os números 8, 9 e 7\obj\Debug\4 - imprimir a média aritmética entre os números 8, 9 e 7.csproj.AssemblyReference.cache

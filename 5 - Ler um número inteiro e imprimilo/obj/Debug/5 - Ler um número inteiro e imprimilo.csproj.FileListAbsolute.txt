@@ -1,0 +1,6 @@
+C:\Users\wirioliveira\source\repos\Exercicios1\5 - Ler um número inteiro e imprimilo\bin\Debug\5 - Ler um número inteiro e imprimilo.exe.config
+C:\Users\wirioliveira\source\repos\Exercicios1\5 - Ler um número inteiro e imprimilo\bin\Debug\5 - Ler um número inteiro e imprimilo.exe
+C:\Users\wirioliveira\source\repos\Exercicios1\5 - Ler um número inteiro e imprimilo\bin\Debug\5 - Ler um número inteiro e imprimilo.pdb
+C:\Users\wirioliveira\source\repos\Exercicios1\5 - Ler um número inteiro e imprimilo\obj\Debug\5 - Ler um número inteiro e imprimilo.csproj.CoreCompileInputs.cache
+C:\Users\wirioliveira\source\repos\Exercicios1\5 - Ler um número inteiro e imprimilo\obj\Debug\5 - Ler um número inteiro e imprimilo.exe
+C:\Users\wirioliveira\source\repos\Exercicios1\5 - Ler um número inteiro e imprimilo\obj\Debug\5 - Ler um número inteiro e imprimilo.pdb
